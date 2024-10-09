@@ -6,9 +6,9 @@ The challenge was to recover access to the password-protected Excel file, as the
 
 # Methodology
 
-*To crack the Excel password, I used a Python-based approach leveraging the following tools and methods:
+To crack the Excel password, I used a Python-based approach leveraging the following tools and methods:
 
-Python & msoffcrypto module: A Python library specifically designed for unlocking password-protected Microsoft Office files.*
+*Python & msoffcrypto module: A Python library specifically designed for unlocking password-protected Microsoft Office files.*
 
 *Dictionary Attack: I utilized a pre-existing list of common passwords stored in a text file to attempt various combinations on the Excel file.*
 
